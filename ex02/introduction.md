@@ -1,4 +1,4 @@
-# Ex01 - Working with the DOM
+# Ex02 - Working with the DOM
 
 The DOM is the main interaction layer between Javascript and your website. It provides programmatic access to different portions of your HTML and allows the user to interact with the content.
 
