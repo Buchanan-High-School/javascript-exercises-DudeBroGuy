@@ -5,6 +5,7 @@ function task1() {
     let el = document.createElement("p");
     el.innerText = item;
     target.appendChild(el);
+    
   });
 }
 
